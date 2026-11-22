@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "notes": "1. 检查更新走 GitHub API，发版即时可见\n2. 下载走 jsdelivr CDN，多节点自动切换\n3. 支持应用内下载安装\n4. 修复安装包解析问题",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.2_arm64-v8a.apk",
-  "size": 20702532,
+  "version": "0.3.3",
+  "notes": "1. 修复课表日期不跟着翻页变\n2. 课表支持周一到周日\n3. 默认显示今天所在的周",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.3_arm64-v8a.apk",
+  "size": 20702523,
   "force": false,
   "publishedAt": "2026-11-22"
 }
