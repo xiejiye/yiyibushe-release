@@ -1,0 +1,8 @@
+{
+  "version": "0.2.6",
+  "notes": "1. 下载源换成 jsdelivr CDN，实测 8-13 秒\n2. 多个 CDN 节点自动切换\n3. 清单文件名带版本号，永远拿到最新",
+  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.2.4_arm64-v8a.apk",
+  "size": 20677662,
+  "force": false,
+  "publishedAt": "2026-11-22"
+}
