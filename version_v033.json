@@ -1,8 +1,8 @@
 {
-  "version": "0.3.3",
-  "notes": "1. 修复课表日期不跟着翻页变\n2. 课表支持周一到周日\n3. 默认显示今天所在的周",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.3_arm64-v8a.apk",
-  "size": 20702523,
+  "version": "0.3.4",
+  "notes": "1. 打开 App 有更新自动弹窗\n2. 检查更新从 30 秒缩短到 1.8 秒\n3. 不想更新点右上角 × 关掉",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.4_arm64-v8a.apk",
+  "size": 20702529,
   "force": false,
   "publishedAt": "2026-11-22"
 }
