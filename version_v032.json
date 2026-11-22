@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "notes": "1. 打开 App 有更新自动弹窗\n2. 检查更新从 30 秒缩短到 1.8 秒\n3. 不想更新点右上角 × 关掉",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.4_arm64-v8a.apk",
+  "version": "0.3.5",
+  "notes": "1. 只保留通用版本，一个包装所有手机\n2. 打开 App 有更新自动弹窗\n3. 检查更新 2 秒内出结果",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.5_arm64-v8a.apk",
   "size": 20702529,
   "force": false,
   "publishedAt": "2026-11-22"
