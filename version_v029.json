@@ -1,0 +1,8 @@
+{
+  "version": "0.2.9",
+  "notes": "1. 下载速度 3.5MB/s\n2. 支持多 CDN 节点\n3. 修复签名兼容问题",
+  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.2.8_arm64-v8a.apk",
+  "size": 20702522,
+  "force": false,
+  "publishedAt": "2026-11-22"
+}
