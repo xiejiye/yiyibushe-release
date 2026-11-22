@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1",
-  "notes": "1. 检查更新走 GitHub API，不再受 CDN 缓存影响\n2. 修复安装包解析问题\n3. 下载失败可手动安装",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.0_arm64-v8a.apk",
-  "size": 20702525,
+  "version": "0.3.2",
+  "notes": "这是测试版本，用来验证检查更新能不能找到",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.1_arm64-v8a.apk",
+  "size": 20702519,
   "force": false,
   "publishedAt": "2026-11-22"
 }
