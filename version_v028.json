@@ -1,8 +1,8 @@
 {
-  "version": "0.2.9",
-  "notes": "1. 下载速度 3.5MB/s\n2. 多 CDN 节点自动切换",
-  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.2.8_arm64-v8a.apk",
-  "size": 20702522,
+  "version": "0.3.1",
+  "notes": "1. 修复安装包解析失败\n2. 下载节点优化\n3. 失败时可手动安装",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.0_arm64-v8a.apk",
+  "size": 20702525,
   "force": false,
   "publishedAt": "2026-11-22"
 }
