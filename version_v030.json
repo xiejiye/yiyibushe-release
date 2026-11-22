@@ -1,0 +1,8 @@
+{
+  "version": "0.3.0",
+  "notes": "1. 修复安装包解析失败（改缓存目录 + 显式 MIME）\n2. 三层完整性校验\n3. 失败时显示文件大小和路径",
+  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.2.9_arm64-v8a.apk",
+  "size": 20702525,
+  "force": false,
+  "publishedAt": "2026-11-22"
+}
