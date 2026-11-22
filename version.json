@@ -1,7 +1,7 @@
 {
   "version": "0.2.5",
-  "notes": "1. 下载源改用 jsdelivr CDN（实测 8 秒下完）\n2. 多个 CDN 节点自动切换",
-  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.2.4_arm64-v8a.apk",
+  "notes": "1. 下载源改用 jsdelivr CDN\n2. 多节点自动切换\n3. 实测 8-13 秒下完",
+  "url": "https://testingcf.jsdelivr.net/gh/xiejiye/yiyibushe-release@35367e83c2c9fbfc796f482e527535594fd8ad37/apk/yiyibushe_v0.2.4_arm64-v8a.apk",
   "size": 20677662,
   "force": false,
   "publishedAt": "2026-11-22"
