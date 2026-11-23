@@ -1,8 +1,8 @@
 {
-  "version": "0.3.5",
-  "notes": "1. 只保留通用版本，一个包装所有手机\n2. 打开 App 有更新自动弹窗\n3. 检查更新 2 秒内出结果",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.5_arm64-v8a.apk",
-  "size": 20702529,
+  "version": "0.3.6",
+  "notes": "1. 登录失效自动重登，不用再输密码\n2. 真需要登录时自动弹窗，学号已预填\n3. 首页课表数据更及时",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.6_arm64-v8a.apk",
+  "size": 20702533,
   "force": false,
-  "publishedAt": "2026-11-22"
+  "publishedAt": "2026-11-23"
 }
