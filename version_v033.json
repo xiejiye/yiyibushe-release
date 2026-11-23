@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "notes": "1. 登录失效自动重登，不用再输密码\n2. 真需要登录时自动弹窗，学号已预填\n3. 首页课表数据更及时",
-  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.6_arm64-v8a.apk",
-  "size": 20702533,
+  "version": "0.3.7",
+  "notes": "1. 点课程块可看详情：完整教室、老师、时间、周次\n2. 首页今日课程修复\n3. 登录失效自动重登",
+  "url": "https://gcore.jsdelivr.net/gh/xiejiye/yiyibushe-release@main/apk/yiyibushe_v0.3.7_arm64-v8a.apk",
+  "size": 20768335,
   "force": false,
   "publishedAt": "2026-11-23"
 }
